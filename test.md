@@ -3,7 +3,8 @@
 
 ###  使用 Railway 部署
 
-[![Deploy on Railway](https://railway.app/button.svg)]([https://railway.app/new/template/yytmgc](https://railway.app/template/T4hhV-?referralCode=Q7sc9e))
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/T4hhV-?referralCode=Q7sc9e)
+
 
 #### Railway 环境变量
 
